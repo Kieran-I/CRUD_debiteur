@@ -10,43 +10,44 @@
 		<form action="insert.php" method="post">
 			
 <p>
-			<label for="id">ID:</label>
+			<label for="id">id</label>
 			<input type="text" name="id" id="id">
 			</p>
 
 			
 <p>
-			<label for="fullName">Full Name:</label>
+			<label for="fullName">email</label>
 			<input type="text" name="Email" id="full_name">
 			</p>
 
 
 <p>
-			<label for="post">PostalZip:</label>
+			<label for="post">voornaam</label>
 			<input type="text" name="voornaam" id="post">
 			</p>
 
 			
 <p>
-			<label for="email">E-mail:</label>
+			<label for="email">tussenvoegsel</label>
 			<input type="text" name="tussenvoegsel" id="email">
 			</p>
 
 			
 <p>
-			<label for="Phone">Phone Number:</label>
+			<label for="Phone">achternaam</label>
 			<input type="text" name="achternaam" id="phone">
 			</p>
 
 			
 <p>
-			<label for="Address">Address:</label>
+			<label for="Address">totaal</label>
 			<input type="text" name="Totaal" id="Address">
 			</p>
 
 			
 
 			<input type="submit" value="Submit">
+			
 		</form>
   
 </body>
